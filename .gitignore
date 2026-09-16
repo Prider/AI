@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Agentic AI memory demo runtime store
+agentic-ai-memory/memory_store.json
