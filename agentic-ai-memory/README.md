@@ -49,6 +49,8 @@ cd agentic-ai-memory
 python3 memory_agent.py
 ```
 
+Long-term facts are saved to `memory_store.json` on first `remember` (gitignored).
+
 ### Try
 
 ```text
