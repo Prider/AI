@@ -1,0 +1,2 @@
+# Day 1 lab dependencies (stdlib-first; openai optional)
+openai>=1.40.0
